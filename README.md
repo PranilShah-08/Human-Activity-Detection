@@ -221,7 +221,7 @@ Human Activity Detection/
 
 ```bash
 git clone https://github.com/PranilShah-08/Machine-Learning-Projects.git
-cd "Machine-Learning-Projects/Human Activity Detection"
+cd "Human-Activity-Detection"
 ```
 
 ### 2. Set up environment
