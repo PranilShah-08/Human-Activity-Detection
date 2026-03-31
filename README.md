@@ -11,7 +11,7 @@
 
 > Classifies **6 human activities** from **2D pose time series** (OpenPose keypoints) using a **2-layer stacked LSTM RNN** built in TensorFlow 1.x — achieving **>90% accuracy** in ~7 minutes of training. Deployed via ngrok with a Flask web app and `sample_video.mp4` demo.
 
-[🔙 Back to Main Profile](https://github.com/PranilShah-08)
+[🔙 Back to Profile](https://github.com/PranilShah-08)
 
 </div>
 
